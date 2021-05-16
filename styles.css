@@ -48,12 +48,12 @@ body{
 	
 }
 .image_box .image_box_welcom{
-	color: #fff;
+	color: #000;
 	font-size: 50px;
 	font-weight: 500;
 }
 .image_box .image_box_descrip{
-	color: #fff;
+	color: #000;
 }
 .image_box .button_anchor .button{
 	border-radius: 30px;
