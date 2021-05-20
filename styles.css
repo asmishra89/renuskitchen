@@ -37,14 +37,11 @@ body{
 }
 .image_box_contents{
 	position: absolute;
-	z-index: 2;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	margin: auto;
+	z-index: 2;		
+	width: 100%;
 	text-align: center;
-	padding-top: 230px;	
+	align-self: center;
+		
 	
 }
 .image_box .image_box_welcom{
