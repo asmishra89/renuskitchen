@@ -206,5 +206,8 @@ body{
 		width: 100%;
 		
 	}
+	.cards_wrap .card_inner{
+		margin-left: 20%;
+	}
 	
 }
