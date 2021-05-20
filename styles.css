@@ -173,12 +173,14 @@ body{
 	padding: 20px;
 }
 .Contact_wrap .name{
-
+	display: flex;
+	justify-content: space-between;
 	font-size: 30px;
 }
 .Contact_wrap .name span{
-	margin-left: 80px;
+	align-self: center;
 	font-size: 20px;
+	margin: 5px;
 
 }
 .Contact_wrap .address{
